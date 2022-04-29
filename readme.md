@@ -1,6 +1,6 @@
 
-This project is the digital application of Morse Code(named after Samuel Morse).
-//Morse Code was used as the primary means of telecommunication started in 1836.
+This project is the digital application of Morse Code(named after Samuel Morse).</br>
+//Morse Code was used as the primary means of telecommunication started in 1836.<br>
 //Inspiration is SOS signal.
 
 >> Platform used is Arduino Uno Rev 3.
@@ -22,6 +22,6 @@ This project is the digital application of Morse Code(named after Samuel Morse).
 
 // Feedback is always Welcomed. There is always a room for improvement.
 // Happy Learning.
-Follow me on: 
+Follow me on:</br> 
 GitHub  -> https://github.com/WasifRazaSyed</br>
 LinkedIn-> https://www.linkedin.com/in/syed-raza-2b62051a1/
