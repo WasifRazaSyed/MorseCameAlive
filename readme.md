@@ -2,6 +2,7 @@
 This project is the digital application of Morse Code(named after Samuel Morse).</br>
 //Morse Code was used as the primary means of telecommunication started in 1836.<br>
 //Inspiration is SOS signal.
+<a href="https://www.tinkercad.com/things/5l4kdT5VTNn">TinkerCad Simulation</a>
 
 >> Platform used is Arduino Uno Rev 3.
 
