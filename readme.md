@@ -10,7 +10,7 @@ This project is the digital application of Morse Code(named after Samuel Morse).
 >> Input mode is primitive. The message is transferred via Serial Monitor using UART protocol.
    Input mode can be upgraded via different sensors. (Upcoming varients of this project)
    
-   Input is confined to English alphabets(NOT case sensitive).
+>> Input is confined to English alphabets(NOT case sensitive).
 
 >> Two output components are used:
    1. 2 LEDs
@@ -23,5 +23,5 @@ This project is the digital application of Morse Code(named after Samuel Morse).
 // Feedback is always Welcomed. There is always a room for improvement.
 // Happy Learning.
 Follow me on: 
-GitHub  -> https://github.com/WasifRazaSyed
+GitHub  -> https://github.com/WasifRazaSyed</br>
 LinkedIn-> https://www.linkedin.com/in/syed-raza-2b62051a1/
