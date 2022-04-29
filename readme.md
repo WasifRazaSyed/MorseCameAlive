@@ -20,8 +20,8 @@ This project is the digital application of Morse Code(named after Samuel Morse).
 
 >> Basic unit of time measurement is 1 second.
 
-// Feedback is always Welcomed. There is always a room for improvement.
-// Happy Learning.
+// Feedback is always Welcomed. There is always a room for improvement.</br>
+// Happy Learning.</br>
 Follow me on:</br> 
 GitHub  -> https://github.com/WasifRazaSyed</br>
 LinkedIn-> https://www.linkedin.com/in/syed-raza-2b62051a1/
