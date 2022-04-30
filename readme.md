@@ -1,5 +1,5 @@
 
-This project is the digital application of Morse Code(named after Samuel Morse).</br>
+<p><center>This project is the digital application of Morse Code(named after Samuel Morse).</center></p></br>
 //Morse Code was used as the primary means of telecommunication started in 1836.<br>
 //Inspiration is SOS signal.</br>
 <a href="https://www.tinkercad.com/things/5l4kdT5VTNn">TinkerCad Simulation</a>
