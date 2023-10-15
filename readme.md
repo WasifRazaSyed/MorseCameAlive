@@ -14,8 +14,8 @@ This project is the digital application of Morse Code(named after Samuel Morse).
 >> Input is confined to English alphabets(NOT case sensitive).
 
 >> Two output components are used:
-   1. 2 LEDs
-   2. 2 Active Buzzers 
+   1. LED
+   2. Active Buzzers 
 
 >> Please refer to the attached "Moorse_Code_Info.pdf" file for Moorse Code rules and validation.
 
