@@ -24,5 +24,4 @@ Inspiration is SOS signal.</br>
 Feedback is always Welcomed. There is always a room for improvement.</br>
 Happy Learning.</br>
 Follow me on:</br> 
-GitHub  -> https://github.com/WasifRazaSyed</br>
 LinkedIn-> https://www.linkedin.com/in/syed-raza-2b62051a1/
