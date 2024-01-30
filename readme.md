@@ -1,7 +1,7 @@
 # Moorse Code Digital Application
 
 <p align="center">
-  <img src="link-to-your-image-file.png" alt="Moorse Code Logo">
+  <img src="https://github.com/WasifRazaSyed/MorseCameAlive/blob/main/Info/SOS_cover.webp" alt="Moorse Code Logo">
 </p>
 
 This project is a digital application of Morse Code, named after Samuel Morse, and was historically used as the primary means of telecommunication starting in 1836. The inspiration for this project comes from the SOS distress signal.
